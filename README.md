@@ -1,0 +1,2 @@
+# automated-madness
+Automated Madness
