@@ -15,7 +15,7 @@ function GenerateName {
     $random1 = $raw[$number1]
     $random2 = $raw[$number2]
 
-    $name = "$random1-$random2"
+    $name = "$random1-$random2-$number1-$number2"
 
     Return $name
 }
